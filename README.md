@@ -2,7 +2,7 @@
 20161124 Azure Cafe 講到的範例或操作步驟。
 
   * [Web App on Linux](WebAppOnLinux/README.md): 主要示範 2016 年 09 月公開預覽的 Web App on Linux，示範如何將一個使用 node.js + mongodb 開發的 web 應用程式部署到 Azure Web App on Linux 上。
-  * Azure Functions: 示範如何使用 Function Apps
+  * [Azure Functions](FunctionApps/README.md): 示範如何使用 Function Apps
   * Azure Container Services: 示範使用 Azure Container Services
 
 
