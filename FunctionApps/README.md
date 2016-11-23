@@ -125,8 +125,9 @@
          public string Gender { get; set; }
      }
      ```
+     貼完之後按下 **Save** 看看是否有編譯錯誤的訊息。
      
-        > 在儲存程式碼之前，別忘了到 [Microsoft Cognitive Services](http://microsoft.com/cognitive) （免費）申請一組 Face API 的存取金鑰。
+       > 在儲存程式碼之前，別忘了到 [Microsoft Cognitive Services](http://microsoft.com/cognitive) （免費）申請一組 Face API 的存取金鑰。
 
   6. 完成後，你可以上傳一張 JPG 檔案到指定的 blob 儲存體，並且放在 ```avatar-input``` 容器下，再回來看看函數應用程式是否正確被驅動執行。
 
