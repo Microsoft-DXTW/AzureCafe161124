@@ -56,7 +56,7 @@
        * **Table name**: _Demo_。
        * **Storage account connection**: 選擇或建立要操作的儲存體帳戶。
 
-  5. 回到 **Develop** 頁面，將下列程式碼貼入編寫程式碼的區塊：
+  5. 回到 **Develop** 頁面，將下列程式碼貼入編寫程式碼的區塊（原始碼：[Run.csx](src/Run.csx)）：
 
      ```csharp
      #r "Newtonsoft.Json"
